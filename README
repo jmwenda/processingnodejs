@@ -1,4 +1,7 @@
 ===============================
+Inspired by the ITP NodeJs and Processing course
+https://github.com/lmccart/itp-creative-js/tree/master/Spring-2014/week6/03_node_servep5
+
 This is a skeleton processing app that uses nodejs.
 To run this simply download the zip and while in the unzipped folder while on your terminal
 run
