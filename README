@@ -1,0 +1,17 @@
+===============================
+This is a skeleton processing app that uses nodejs.
+To run this simply download the zip and while in the unzipped folder while on your terminal
+run
+
+npm install
+then
+npm start
+
+npm install insalles all the packages specified in the package.json
+
+npm start starts a somple web service on port 8080. One can then access the processing
+main page at http://localhost:8080/ or http://127.0.0.1:8080/
+
+
+This already comes installed with the twitter nodejs packages. Please read the package.json file for more
+information on this

@@ -1,0 +1,15 @@
+{
+  "name": "classtutorials",
+  "version": "1.0.0",
+  "description": "this is a simple node template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": " Jude Mwenda Ntabathia",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
